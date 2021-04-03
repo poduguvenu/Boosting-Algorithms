@@ -8,3 +8,7 @@
 3. XG Boost, Light GBM, catBoost and Scikit-Learn Gradient Boosting Performance Comparision
   
   In this notebook we'll compare the speed and accuracy of several gradient boosting implementations from Scikit-Learn, XGBoost, LightGBM and CatBoost.
+
+4. Feature Importance and Feature Selection With XGBoost in Python
+  
+  A benefit of using ensembles of decision tree methods like gradient boosting is that they can automatically provide estimates of feature importance from a trained predictive model.
